@@ -31,6 +31,16 @@ https://archive.ics.uci.edu/ml/datasets/online+retail
 - Most customers purchase only a few times.
 - United Kingdom contributes the majority of sales.
 
+## Visualizations
+1) Top Selling Products
+![Top Products](top_products.png)
+
+2) Customer Purchase Frequency
+![Purchase Frequency](purchase_frequency.png)
+
+3) Country-wise Sales
+![Country Sales](country_sales.png)
+
 ## Dataset
 Online Retail Dataset
 
