@@ -1,5 +1,16 @@
 # E-commerce Purchase Analysis
 
+## Dashboard Visualizations
+
+### Country-wise Sales
+![Country Sales](country_sales.png)
+
+### Purchase Frequency
+![Purchase Frequency](purchase_frequency.png)
+
+### Top Products
+![Top Products](top_products.png)
+
 ## Project Overview
 This project analyzes an e-commerce dataset to understand customer purchasing behavior and sales patterns.
 
